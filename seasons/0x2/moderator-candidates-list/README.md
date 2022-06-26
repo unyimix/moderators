@@ -11,5 +11,5 @@ This is just an example.
 
 This is just an example.
 
-- Discord user name: `Write your Discord user name`
-- UnUniFi address : `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
+- Discord user name: `uybro1#7801`
+- UnUniFi address : ' ununifi1x2qv78p46ds4s8w90spm8u62h2rxmn2d6ayl72 '
